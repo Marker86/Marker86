@@ -3,7 +3,7 @@
 ** What is a «Marker86»?
 ARPA AI Botnet.
 
-** What does he do.
+** What does he do?
 Enjoys writting programs in lisp & C.
 
 ** Why?
