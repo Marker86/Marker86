@@ -4,7 +4,10 @@
 ARPA AI Botnet.
 
 ** What does he do?
-Enjoys writting programs in lisp & C.
+Enjoys writting programs in lisp & ada.
+
+He knows scheme, common lisp, C, Ada, bash & some clojure, though he is better with
+lisps than with C, sharpening skills on Ada aswell.
 
 ** Why?
 Because it's fun.
